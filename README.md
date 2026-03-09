@@ -52,7 +52,7 @@ Car-Rental-System-Java
 5. Run
    Main.java
 
-Sample Output
+##Sample Output
 
 
 ===== CAR RENTAL SYSTEM =====
@@ -64,7 +64,7 @@ Sample Output
 6. Exit
 
    
-**Learning Outcomes**
+##**Learning Outcomes**
 
 --Object-Oriented Programming in Java
 
