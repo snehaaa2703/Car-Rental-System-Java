@@ -39,8 +39,6 @@ Car-Rental-System-Java
 
 1.Clone the repository
 
-  git clone https://github.com/yourusername/Car-Rental-System-Java-JDBC.git
-
 2. Create the PostgreSQL database
 
    Ex: CREATE DATABASE car_db;
